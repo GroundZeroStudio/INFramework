@@ -1,0 +1,17 @@
+{
+    "name": "ResourcesManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b4d5c81c11008a447ac012729f654e11",
+        "GUID:69a1223f18e3b004896c01662504b6ac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
